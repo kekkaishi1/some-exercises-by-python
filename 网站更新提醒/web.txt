@@ -1,0 +1,1302 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>长江经济带_中国发展网_中国经济导报社主办</title>
+<meta name="keywords" content="一带一路、发展改革、创新创优、环保科技、文化艺术、经济、法律、绿色、矿产、旅游、城镇发展" />
+<meta name="description" content="中国发展网《长江经济带》频道，新闻报道将覆盖长江经济带范围内的11个省市，依托长江经济带的地理优势，进行深入的第一现场采访、跟踪报道，重点报道长江经济带的经济新闻、与百姓息息相关的民生新闻，对重大经济活动做详尽的专题报道。" />
+<link rel="shortcut icon" href="http://www.chinadevelopment.com.cn/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="http://img.chinadevelopment.com.cn/templates/chinadevelopment/css/cjjjd/style.css" />
+<script type="text/javascript" src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/js/jquery.js"></script>
+<script src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/js/cjjjd/jquery-1.7.2.js" type="text/javascript"></script>
+<script src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/js/2015zt/jquery.SuperSlide.2.1.1.js" type="text/javascript"></script>
+
+
+</head>
+<body>
+	<center> <!--居中标签，建议都加上！-->
+        <!--合作频道顶部通栏横条-start-->
+            <style>
+.tytop {
+background-color: #fafbfc;
+height: 40px;
+border-bottom: #f0efef solid 1px;
+}
+.container {
+width: 1000px;
+margin: 0px auto;
+}
+.tytop .logo-s {
+width: 90px;
+margin-right: 10px;
+float: left;
+margin-top: 8px;
+}
+
+.tytop ul {
+height: 25px;
+margin-top: 12px;
+float: left;
+}
+
+.tytop ul li {
+float: left;
+font-size: 12px;
+width: 45px;
+text-align: center;
+list-style:none;
+}
+
+</style>
+<div class="tytop">
+ <div class="container container_top">
+  <div class="logo-s"><a href="http://www.chinadevelopment.com.cn/" target="_blank"><img src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/images/fzw/index_r3_c2_s1.jpg" width="90" height="25"></a></div>
+  <ul>
+      <li style="width:55px;"><a href="http://ndrc.chinadevelopment.com.cn/" target="_blank">发改委</a></li><li style="width:1px;">|</li>
+      <li><a href="http://news.chinadevelopment.com.cn/zj/" target="_blank">政经</a></li><li style="width:1px;">|</li>
+      <li><a href="http://news.chinadevelopment.com.cn/cy/" target="_blank">产业</a></li><li style="width:1px;">|</li>
+      <li><a href="http://news.chinadevelopment.com.cn/ny/" target="_blank">能源</a></li><li style="width:1px;">|</li>
+      <li><a href="http://thinktank.chinadevelopment.com.cn/" target="_blank">智库</a></li><li style="width:1px;">|</li>
+      <li><a href="http://yuqing.chinadevelopment.com.cn/" target="_blank">舆情</a></li><li style="width:1px;">|</li>
+      <li><a href="http://photo.chinadevelopment.com.cn/" target="_blank">图片</a></li>
+	  <li style="width:1px;">|</li>
+      <li><a href="http://video.chinadevelopment.com.cn/" target="_blank">视频</a></li>
+	  <li style="width:1px;">|</li>
+      <li style="width:70px;"><a href="http://project.chinadevelopment.com.cn/" target="_blank">重大项目</a></li>
+	  <li style="width:1px;">|</li>
+      <li style="width:70px;"><a href="http://biding.chinadevelopment.com.cn/" target="_blank">招标投标</a></li>
+	  <li style="width:1px;">|</li>
+      <li style="width:70px;"><a href="http://price.chinadevelopment.com.cn/" target="_blank">中国价格</a></li>
+	  <li style="width:1px;">|</li>
+      <li style="width:70px;"><a href="http://bond.chinadevelopment.com.cn/" target="_blank">中国债市</a></li>
+	  <li style="width:1px;">|</li>
+      <li style="width:70px;"><a href="http://ppp.chinadevelopment.com.cn/a/pppxm/" target="_blank">PPP项目库</a></li>
+  </ul>
+
+ </div>
+</div>
+        <!--合作频道顶部通栏横条-end-->
+
+        <!--长江经济带顶部导航-start-->
+        <div class="header_menu">
+            <div class="header_menu_div_1" onclick="javascript:window.location.href='http://changjiang.chinadevelopment.com.cn/'">
+                <div class="header_menu_div_1_1">
+                    <!-- Baidu Button BEGIN -->
+                    <div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+                <!-- Baidu Button END -->
+                </div>
+            </div>
+             <div class="header_menu_div_2">
+                <div class="header_menu_div_2_1">
+                    <div class="header_menu_div_2_1_1">
+                        <div id="menu_cell">
+                            <ul>
+                                 <li ><a id="55"  href="http://changjiang.chinadevelopment.com.cn/hscj/"><b> 话说长江</b></a></li> <li ><a id="98"  href="http://changjiang.chinadevelopment.com.cn/czfz/"><b> 城镇发展</b></a></li> <li ><a id="100"  href="http://changjiang.chinadevelopment.com.cn/xhjj/"><b> 循环经济</b></a></li> <li ><a id="101"  href="http://changjiang.chinadevelopment.com.cn/cxcy/"><b> 创新创优</b></a></li> <li ><a id="102"  href="http://changjiang.chinadevelopment.com.cn/jtsl/"><b> 交通水利</b></a></li> <li ><a id="103"  href="http://changjiang.chinadevelopment.com.cn/fzhd/"><b> 协同发展</b></a></li> <li ><a id="104"  href="http://changjiang.chinadevelopment.com.cn/cjyx/"><b> 长江影像</b></a></li> <li ><a id="105"  href="http://changjiang.chinadevelopment.com.cn/fyjj/"><b> 经济与法</b></a></li> <li ><a id="106"  href="http://changjiang.chinadevelopment.com.cn/lypp/"><b> 人文长江</b></a></li> <li ><a id="107"  href="http://changjiang.chinadevelopment.com.cn/cyjj/"><b> 产业集聚</b></a></li> <li ><a id="108"  href="http://changjiang.chinadevelopment.com.cn/kczy/"><b> 发展研究院</b></a></li> <li ><a id="574"  href="http://changjiang.chinadevelopment.com.cn/stwm/"><b> 生态文明</b></a></li> <li ><a id="575"  href="http://changjiang.chinadevelopment.com.cn/kjww/"><b> 科教文卫</b></a></li> <li ><a id="576"  href="http://changjiang.chinadevelopment.com.cn/snzx/"><b> 一羽谈</b></a></li> <li ><a id="577"  href="http://changjiang.chinadevelopment.com.cn/ylgc/"><b> 舆情观察</b></a></li> <li ><a id="1378"  href="http://changjiang.chinadevelopment.com.cn/cjjjd/"><b> 生态长江</b></a></li> <li ><a id="99"  href="http://changjiang.chinadevelopment.com.cn/whys/"><b> 长江雅集</b></a></li>                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header_menu_div_3"></div>
+        </div>
+                        <script type="text/javascript">
+                var catid=;
+                $("#"+catid).css("color","#ff0000");
+            </script>
+        <!--长江经济带顶部导航-end-->
+        
+        
+        
+        
+
+        <!--幻灯片-头条栏-start-->
+        <div>
+            <div class="hdp_tt">
+                <div class="hdp_tt_left">
+                        <div class="comiis_wrapad" id="slideContainer">
+        <div id="frameHlicAe" class="frame cl">
+           
+            <div class="block">
+                <div class="cl">
+                    <ul class="slideshow" id="slidesImgs">
+                                            <li><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/08/1323001.shtml" title="三千西子聚淳安，美溢仙湖意态娴">
+                            <img title="三千西子聚淳安，美溢仙湖意态娴" src="http://upload.chinadevelopment.com.cn/2018/0803/thumb_617_337_1533260874808.jpg" width="617" height="337" alt="三千西子聚淳安，美溢仙湖意态娴" border="0" /></a><a class="title" target="_blank" title="三千西子聚淳安，美溢仙湖意态娴" href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/08/1323001.shtml" >三千西子聚淳安，美溢仙湖意态娴</a></li>
+                                            <li><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/08/1322581.shtml" title="水天相连共处 人间仙境同享">
+                            <img title="水天相连共处 人间仙境同享" src="http://upload.chinadevelopment.com.cn/2018/0802/thumb_617_337_1533198623772.jpg" width="617" height="337" alt="水天相连共处 人间仙境同享" border="0" /></a><a class="title" target="_blank" title="水天相连共处 人间仙境同享" href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/08/1322581.shtml" >水天相连共处 人间仙境同享</a></li>
+                                            <li><a href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/08/1322969.shtml" title="保护长江母亲河 “三峡蚁工”在行动">
+                            <img title="保护长江母亲河 “三峡蚁工”在行动" src="http://upload.chinadevelopment.com.cn/2018/0803/thumb_617_337_1533259965127.jpg" width="617" height="337" alt="保护长江母亲河 “三峡蚁工”在行动" border="0" /></a><a class="title" target="_blank" title="保护长江母亲河 “三峡蚁工”在行动" href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/08/1322969.shtml" >保护长江母亲河 “三峡蚁工”在行动</a></li>
+                                            <li><a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/08/1323012.shtml" title="江苏海安：家庭农场逐步向现代化发展">
+                            <img title="江苏海安：家庭农场逐步向现代化发展" src="http://upload.chinadevelopment.com.cn/2018/0803/thumb_617_337_1533261424256.jpg" width="617" height="337" alt="江苏海安：家庭农场逐步向现代化发展" border="0" /></a><a class="title" target="_blank" title="江苏海安：家庭农场逐步向现代化发展" href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/08/1323012.shtml" >江苏海安：家庭农场逐步向现代化发展</a></li>
+                                            <li><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/07/1309355.shtml" title="山列万峰呈胜景，田陈八卦展新畴">
+                            <img title="山列万峰呈胜景，田陈八卦展新畴" src="http://upload.chinadevelopment.com.cn/2018/0716/thumb_617_337_1531708657124.jpg" width="617" height="337" alt="山列万峰呈胜景，田陈八卦展新畴" border="0" /></a><a class="title" target="_blank" title="山列万峰呈胜景，田陈八卦展新畴" href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/07/1309355.shtml" >山列万峰呈胜景，田陈八卦展新畴</a></li>
+                                            <li><a href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/06/1281865.shtml" title="雨后泸沽湖：那倒影在湖中的白云可是你散落的裙带">
+                            <img title="雨后泸沽湖：那倒影在湖中的白云可是你散落的裙带" src="http://upload.chinadevelopment.com.cn/2018/0606/thumb_617_337_1528267355283.jpg" width="617" height="337" alt="雨后泸沽湖：那倒影在湖中的白云可是你散落的裙带" border="0" /></a><a class="title" target="_blank" title="雨后泸沽湖：那倒影在湖中的白云可是你散落的裙带" href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/06/1281865.shtml" >雨后泸沽湖：那倒影在湖中的白云可是你散落的裙带</a></li>
+                                        </ul>
+                </div>
+                <div class="slidebar" id="slideBar">
+                    <ul>
+                        <li class="on" lang="1">&nbsp;&nbsp;</li>
+                        <li lang="2">&nbsp;&nbsp;</li>
+                        <li lang="3">&nbsp;&nbsp;</li>
+                        <li lang="4">&nbsp;&nbsp;</li>
+                        <li lang="5">&nbsp;&nbsp;</li>
+                        <li lang="6">&nbsp;&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+                </div>
+                <div class="hdp_tt_right">
+                    <div class="hdp_tt_right_1">
+                        <ul>
+  <li>        <a   class="hdp_tt_right_1_big" href="http://changjiang.chinadevelopment.com.cn/ylgc/2018/06/1287868.shtml"  title="中国发展网执行副总编袁羽钧受邀赴无锡双面呢生产基地调研" target="_blank">中国发展网执行副总编袁羽钧受邀赴无锡双面</a>
+        
+          </li>
+  <li>        <a   class="hdp_tt_right_1_small" href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/05/1269279.shtml"  title="江苏扬州建华村发展系列报道之一"  target="_blank">江苏扬州建华村发展系列报道之一</a>
+        <div></div>
+          </li>
+  <li>        <a   class="hdp_tt_right_1_big" href="http://changjiang.chinadevelopment.com.cn/zksd/2018/03/1247415.shtml"  title="中国长江经济带发展研究院院长袁羽钧受邀赴瓜洲、江都调研" target="_blank">中国长江经济带发展研究院院长袁羽钧受邀赴</a>
+        
+          </li>
+  <li>        <a   class="hdp_tt_right_1_small" href="http://changjiang.chinadevelopment.com.cn/fzhd/2017/12/1210967.shtml"  title="推动长江经济带发展领导小组召开会议：坚持以共抓大保护、不搞大开发为导向，把修复长江生态环境摆在压倒性位置"  target="_blank">推动长江经济带发展领导小组召开会议：坚持以共抓大保护、不搞大开发为导向，把修复长江生态环境摆在压倒性位置</a>
+        <div></div>
+          </li>
+</ul>
+                    </div>
+                    <div class="hdp_tt_right_2">
+                        <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/styj/2018/07/1321585.shtml"  title="荷兰花海香满大丰 花文化催热旅游经济"  target="_blank">荷兰花海香满大丰 花文化催热旅游经济</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cxcy/2018/07/1317653.shtml"  title="全球吉商大会在长春举行"  target="_blank">全球吉商大会在长春举行</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/kjww/2018/07/1316475.shtml"  title="长江经济带首次“绿水青山就是金山银山”创新实践培训班在丽水举办"  target="_blank">长江经济带首次“绿水青山就是金山银山”创新实践</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/07/1315587.shtml"  title="擘画新时代中国发展新坐标——深入推动长江经济带发展述评"  target="_blank">擘画新时代中国发展新坐标——深入推动长江经济带</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/ylgc/2018/07/1312428.shtml"  title="禄口街道人大工委组织区人大代表视察调研水污染治理情况"  target="_blank">禄口街道人大工委组织区人大代表视察调研水污染治</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zlyx/2018/07/1312422.shtml"  title="禄口街道三年水利建设行动计划推进情况调研报告"  target="_blank">禄口街道三年水利建设行动计划推进情况调研报告</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/07/1312414.shtml"  title="说真话 做实事 一心为民谋福祉"  target="_blank">说真话 做实事 一心为民谋福祉</a></li>
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--幻灯片-头条栏-end-->
+        
+        <div class="gg_gdpt">
+<div id="slideBox1" class="slideBox1">
+<div class="bd">
+<div class="tempWrap" style="overflow:hidden; position:relative; height:90px"><ul style="top: 0px; position: relative; padding: 0px; margin: 0px;">
+<li style="height: 90px; width:100%">
+<a target="_blank" title="">
+         <img width="100%"  src="http://upload.chinadevelopment.com.cn/2017/0911/1505098386531.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+<li style="height: 90px; width:100%">
+<a href="http://changjiang.chinadevelopment.com.cn/gjzc/2017/08/1171271.shtml" target="_blank" title="">
+         <img width="100%" src="http://upload.chinadevelopment.com.cn/2017/0911/1505098386135.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+<li style="height: 90px; width:100%">
+<a href="http://changjiang.chinadevelopment.com.cn/gjzc/2017/08/1171268.shtml" target="_blank" title="">
+         <img width="100%"  src="http://upload.chinadevelopment.com.cn/2017/0911/1505098386496.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+<li style="height: 90px; width:100%">
+<a href="http://changjiang.chinadevelopment.com.cn/gjzc/2017/08/1171274.shtml" target="_blank" title="">
+         <img width="100%"  src="http://upload.chinadevelopment.com.cn/2017/0911/1505098386308.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+</ul></div>
+</div>
+</div>
+<script>jQuery(".slideBox1").slide({mainCell:".bd ul",effect:"top",autoPlay:true});</script>
+
+</div>
+
+        <!--城镇发展-话说长江模块-start-->
+        <div class="czfz_hscj">
+            <div class="czfz_left">
+                <div class="title_1">
+                    <div class="title_1_div"><a href="http://changjiang.chinadevelopment.com.cn/czfz/" target="_blank">城镇发展</a></div>
+                    <div class="littlegg">
+                      <a href="" title="广告"><img alt="广告" src="http://upload.chinadevelopment.com.cn/2015/0204/1423026728660.gif" data-bd-imgshare-binded="1"></a>
+                    </div>
+                </div>
+                <div class="czfz_con">
+                    <div class="czfz_con_left">
+                        <div class="con_list1">    
+                            <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2018/07/1303837.shtml" title="姜堰建成全国首个蓝光光盘数据库"  target="_blank">姜堰建成全国首个蓝光光盘数据库</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2018/05/1278348.shtml" title="常熟泗洪工业园区在常熟市成功召开投资环境说明会"  target="_blank">常熟泗洪工业园区在常熟市成功召开投资环境说明会</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2018/04/1260147.shtml" title="绘就新时代美丽乡村新画卷——习近平总书记关心推动浙江“千村示范、万村整治”工程纪实"  target="_blank">绘就新时代美丽乡村新画卷——习近平总书记关心推</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2018/03/1240183.shtml" title="全力赶 加快转 奋力超"  target="_blank">全力赶 加快转 奋力超</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2018/01/1224859.shtml" title="湖北发布长江经济带城镇建设规划"  target="_blank">湖北发布长江经济带城镇建设规划</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2018/01/1221906.shtml" title="法治文化成为姜堰“新地标”"  target="_blank">法治文化成为姜堰“新地标”</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2017/12/1209602.shtml" title="浙江为28个特色小镇"补短板""  target="_blank">浙江为28个特色小镇&quot;补短板&quot;</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2017/11/1193191.shtml" title="江苏姜堰创成国家农产品质量安全县"  target="_blank">江苏姜堰创成国家农产品质量安全县</a></li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="czfz_con_right">
+                        <div class="czfz_con_right_up">
+                            <div class="con_list2">
+                                <ul>
+  <li>
+    <a href="http://changjiang.chinadevelopment.com.cn/czfz/2018/04/1255973.shtml" target="_blank" title=" “生态+”催生沈高田园美景"><img src="http://upload.chinadevelopment.com.cn/2018/0413/1523605355627.png"  alt=" “生态+”催生沈高田园美景"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/czfz/2018/04/1255973.shtml" target="_blank" title=" “生态+”催生沈高田园美景"> “生态+”催生沈</a>
+</li>
+  <li>
+    <a href="http://changjiang.chinadevelopment.com.cn/czfz/2018/03/1240142.shtml" target="_blank" title="撤县设市后的全新样貌"><img src="http://upload.chinadevelopment.com.cn/2018/0306/1520316684957.jpg"  alt="撤县设市后的全新样貌"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/czfz/2018/03/1240142.shtml" target="_blank" title="撤县设市后的全新样貌">撤县设市后的全新</a>
+</li>
+</ul>
+                            </div>
+                        </div>
+                        <div class="czfz_con_right_down">
+                            <div class="con_list3">
+                                <ul>
+  <li  style="float:left"><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2017/11/1193979.shtml"  title="安徽计划明年调整“最低工资标准”"  target="_blank">安徽计划明年调</a></li>
+  <li ><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2017/11/1192014.shtml"  title="让群众从“一窗跑”到“零次跑”  ——兰溪公安“最多跑一次”跑出新速度"  target="_blank">让群众从“一窗</a></li>
+  <li  style="float:left"><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2017/11/1188922.shtml"  title="江苏南京江宁区禄口街道人大工委发布2017年禄口街道千百工程建设情况调研报告"  target="_blank">江苏南京江宁区</a></li>
+  <li ><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2017/11/1187966.shtml"  title="江苏“沿江八市”住房公积金有望异地互贷"  target="_blank">江苏“沿江八市</a></li>
+  <li  style="float:left"><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2017/10/1186329.shtml"  title="昆山开发区管理运营经验漂洋过海到埃塞"  target="_blank">昆山开发区管理</a></li>
+  <li ><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2017/10/1186320.shtml"  title="江苏：168个PPP项目落地实施"  target="_blank">江苏：168个PPP</a></li>
+  <li  style="float:left"><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2017/10/1185436.shtml"  title="学术丨美丽乡村建设与田园综合体发展的几大关系探析"  target="_blank">学术丨美丽乡村</a></li>
+  <li ><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/czfz/2017/08/1171492.shtml"  title="江苏再增减负措施17条  年底将为企业减负2310亿"  target="_blank">江苏再增减负措</a></li>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="hscj_right">
+                <div class="title_2">
+                    <div class="title_2_div"><a href="http://changjiang.chinadevelopment.com.cn/hscj/" target="_blank">话说长江</a></div>
+                    <div class="littlegg">
+                      <a href="http://www.guannan.gov.cn/" target="_blank" title=""><img alt="广告" src="http://upload.chinadevelopment.com.cn/2015/0204/1423026783108.gif" data-bd-imgshare-binded="1"></a>
+                    </div>
+                </div>
+                <div class="hscj_con">
+                    <div class="hscj_con_right_up" style="border-bottom:none">
+                        <div class="con_list4">
+                            <table>
+    <tbody><tr style="
+    height: 80px;
+">
+        <td class="con_list4_td1" style="width:90px;height: 75px;">
+            <img  style="width:90px;height:60px" src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/images/cjjjd/gj.jpg" >
+        </td>
+        <td class="con_list4_td2">
+              <div class="con_list4_div1" style="height:25px;line-height:30px"><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/gjzc/2018/07/1295954.shtml" target="_blank" title="签订长江经济带司法鉴定协同发展协议">签订长江经济带司法鉴定协同发展协议</a></div>
+  <div class="con_list4_div1" style="height:25px;line-height:30px"><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/gjzc/2018/07/1295126.shtml" target="_blank" title="生态环境部：明年完成县级水源地整治 确保老百姓喝上干净水">生态环境部：明年完成县级水源地整治 确保老百姓喝上干净水</a></div>
+
+
+
+        </td>
+</tr>
+<tr>
+        <td class="con_list4_td1" style="width:90px;height: 75px;">
+            <img style="width:90px;height:60px" src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/images/cjjjd/bw.jpg">
+
+        </td>
+        <td class="con_list4_td2">
+              <div class="con_list4_div1"  style="height:25px;line-height:30px"><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/bwzc/2018/03/1247570.shtml" target="_blank" title="江苏省招标投标公共服务平台正式上线">江苏省招标投标公共服务平台正式上线</a></div>
+  <div class="con_list4_div1"  style="height:25px;line-height:30px"><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/bwzc/2018/03/1244780.shtml" target="_blank" title="发改委：今年加快实施长三角城市群规划">发改委：今年加快实施长三角城市群规划</a></div>
+
+
+        </td>
+</tr><tr>
+        <td class="con_list4_td1" style="width:90px;height: 75px;"> 
+            <img style="width:90px;height:60px" src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/images/cjjjd/df.jpg">
+
+        </td>
+        <td class="con_list4_td2">
+              <div class="con_list4_div1"  style="height:25px;line-height:30px"><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/dfzc/2018/03/1242381.shtml" target="_blank" title="江苏：全面推进物流降本增效，促进实体经济健康发展">江苏：全面推进物流降本增效，促进实体经济健康发展</a></div>
+  <div class="con_list4_div1"  style="height:25px;line-height:30px"><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/dfzc/2018/02/1238564.shtml" target="_blank" title="检商贸“三证合一”改革落地生根">检商贸“三证合一”改革落地生根</a></div>
+
+
+        </td>
+</tr>
+</tbody></table>
+
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <!--城镇发展-话说长江模块-end-->
+        
+        <div class="gg_gdpt">
+<div id="slideBox2" class="slideBox2 gg_gdpt_1">
+<div class="bd">
+<div class="tempWrap" style="overflow:hidden; position:relative; height:90px"><ul style="top: 0px; position: relative; padding: 0px; margin: 0px;">
+<!--<li style="height: 90px;">
+<a  target="_blank" title="">
+         <img src="http://upload.chinadevelopment.com.cn/2017/0911/1505098096801.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+<li style="height: 90px;">
+<a  target="_blank" title="">
+         <img src="http://upload.chinadevelopment.com.cn/2017/0911/1505098096963.jpg" data-bd-imgshare-binded="1"></a>
+      </li>--!>
+<li style="height: 90px;">
+<a href="http://www.jujiaotaizhou.com" target="_blank" title="">
+         <img src="http://upload.chinadevelopment.com.cn/2017/0914/1505378246611.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+</ul></div>
+</div>
+</div>
+<script>jQuery(".slideBox2").slide({mainCell:".bd ul",effect:"top",autoPlay:true});</script>
+
+<a class="gg_gdpt_2" href="http://upload.chinadevelopment.com.cn/2017/0911/1505098190275.jpg" target="_blank"  title=""><img alt="" src="http://upload.chinadevelopment.com.cn/2017/0911/1505098190275.jpg"/></a>
+</div>
+
+        <!--高端访谈-循环经济模块-start-->
+        <div>
+            <div class="gdft_xhjj">
+                <div class="gdft_left">
+                    <div class="title_1">
+                        <div class="title_1_div"><a href="http://changjiang.chinadevelopment.com.cn/ylgc/" target="_blank">舆情观察</a></div>
+                        <div class="littlegg">
+                      
+                    </div>
+                    </div>
+                    <div class="gdft_con">
+                            <div class="gdft_con_right_up">
+                                <div class="con_list4">
+                                    <table cellpadding="0" cellspacing="0">
+    <tr>
+        <td class="con_list4_td1">
+            <a href="http://changjiang.chinadevelopment.com.cn/ylgc/2018/06/1287868.shtml" target="_blank" title="中国发展网执行副总编袁羽钧受邀赴无锡双面呢生产基地调研"><img src="http://upload.chinadevelopment.com.cn/2018/0617/1529247980751.png"  alt="中国发展网执行副总编袁羽钧受邀赴无锡双面呢生产基地调研"  />
+            </a>
+        </td>
+        <td class="con_list4_td2">
+            <div class="con_list4_div1"><a href="http://changjiang.chinadevelopment.com.cn/ylgc/2018/06/1287868.shtml" target="_blank" title="中国发展网执行副总编袁羽钧受邀赴无锡双面呢生产基地调研">中国发展网执行副总编袁羽钧受邀赴无锡双面呢生产基地调研</a></div>
+            <div class="con_list4_div2"><span>6月13日至14日，中国发展网执行副总编、中国长江经济带发展研究院院长袁羽钧一行</span></div>
+        </td>
+</tr>
+</table>
+
+                                </div>
+                            </div>
+                            <div class="gdft_con_right_down">
+                                <div class="con_list1">
+                                    <ul>
+  <li><span><img src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/images/cjjjd/arr.png"  border="0" /></span><a href="http://changjiang.chinadevelopment.com.cn/ylgc/2018/07/1312428.shtml" title="禄口街道人大工委组织区人大代表视察调研水污染治理情况"  target="_blank">禄口街道人大工委组织区人大代表视察调研水污染治理</a></li>
+  <li><span><img src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/images/cjjjd/arr.png"  border="0" /></span><a href="http://changjiang.chinadevelopment.com.cn/ylgc/2018/07/1310798.shtml" title="人民日报：建设生态长江尽管成果显著，但依然容不得松气歇脚"  target="_blank">人民日报：建设生态长江尽管成果显著，但依然容不得</a></li>
+  <li><span><img src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/images/cjjjd/arr.png"  border="0" /></span><a href="http://changjiang.chinadevelopment.com.cn/ylgc/2018/06/1288574.shtml" title="审计署有关部门负责人就长江经济带生态环境保护审计结果答记者问"  target="_blank">审计署有关部门负责人就长江经济带生态环境保护审计</a></li>
+  <li><span><img src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/images/cjjjd/arr.png"  border="0" /></span><a href="http://changjiang.chinadevelopment.com.cn/ylgc/2018/05/1275965.shtml" title="5月25日24时起江苏上调成品油价格"  target="_blank">5月25日24时起江苏上调成品油价格</a></li>
+</ul>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+
+                <div class="cxcy_mid">
+                    <div class="title_3">
+                        <div><a href="http://changjiang.chinadevelopment.com.cn/cxcy/" target="_blank">创新创优</a></div>
+                    </div>
+                    <div class="cxcy_con">
+                        <div class="con_list5">
+                            <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cxcy/2018/07/1317653.shtml" title="全球吉商大会在长春举行"  target="_blank">全球吉商大会在长春举行</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cxcy/2018/07/1312315.shtml" title="思想大解放引领产业大发展"  target="_blank">思想大解放引领产业大发展</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cxcy/2018/06/1292207.shtml" title="“数字新经济 物联新时代”2018物博会将于九月在无锡亮相"  target="_blank">“数字新经济 物联新时代”2018</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cxcy/2018/06/1288443.shtml" title="深度融合大战略，科技创新扬国威"  target="_blank">深度融合大战略，科技创新扬国威</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cxcy/2018/05/1268671.shtml" title="5月10日，来自相关部委和地方的官员共同探讨——"  target="_blank">5月10日，来自相关部委和地方的</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cxcy/2018/04/1252067.shtml" title="文化重铸同山烧 激情成就辉煌梦"  target="_blank">文化重铸同山烧 激情成就辉煌梦</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cxcy/2018/03/1247786.shtml" title="我国首个大型页岩气田---涪陵页岩气田建成100亿方产能"  target="_blank">我国首个大型页岩气田---涪陵页</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cxcy/2018/03/1247390.shtml" title="纪念改革开放40周年"  target="_blank">纪念改革开放40周年</a></li>
+</ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="xhjj_right">
+                    <div class="title_2">
+                        <div class="title_2_div"><a href="http://changjiang.chinadevelopment.com.cn/xhjj/" target="_blank">循环经济</a></div>
+                        <div class="littlegg">
+                      <a href="http://www.ycedz.com/" title="" target="_blank"><img alt="广告" src="http://upload.chinadevelopment.com.cn/2015/0204/1423026850334.gif" data-bd-imgshare-binded="1"></a>
+                    </div>
+                    </div>
+                    <div class="xhjj_con">
+                        <div class="xhjj_con_right_up">
+                            <div class="con_list4">
+                            <table cellpadding="0" cellspacing="0">
+    <tr>
+        <td class="con_list4_td1">
+            <a href="http://changjiang.chinadevelopment.com.cn/xhjj/2017/10/1183001.shtml" target="_blank" title=""环保新技术创新与发展趋势”高级研修班在南京开班"><img src="http://upload.chinadevelopment.com.cn/2017/1017/1508230654632.jpg"  alt=""环保新技术创新与发展趋势”高级研修班在南京开班"  />
+            </a>
+        </td>
+        <td class="con_list4_td2">
+            <div class="con_list4_div1"><a href="http://changjiang.chinadevelopment.com.cn/xhjj/2017/10/1183001.shtml" target="_blank" title=""环保新技术创新与发展趋势”高级研修班在南京开班">"环保新技术创新与发展趋势”高级研修班在南京开班</a></div>
+            <div class="con_list4_div2"><span></span></div>
+        </td>
+</tr>
+</table>
+
+                            </div>
+                        </div>
+                        <div class="xhjj_con_right_down">
+                            <div class="con_list1">
+                            <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xhjj/2018/03/1246306.shtml" title="长江黄金系列游轮成功开启了长江旅游新时代"  target="_blank">长江黄金系列游轮成功开启了长江旅游新时代</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xhjj/2017/12/1209809.shtml" title="2018 江苏再降一批涉企收费为企业减负"  target="_blank">2018 江苏再降一批涉企收费为企业减负</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xhjj/2017/10/1185432.shtml" title="学术丨推动绿色发展的一场伟大革命"  target="_blank">学术丨推动绿色发展的一场伟大革命</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xhjj/2017/10/1183351.shtml" title="2017“环保新技术创新与发展趋势”高级研修班在南京开班"  target="_blank">2017“环保新技术创新与发展趋势”高级研修班在南京</a></li>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--高端访谈-循环经济模块-end-->
+
+        <!--高端访谈-循环经济模块下广告-start-->
+            <div class="gg_gdpt">
+<div id="slideBox3" class="slideBox3">
+<div class="bd">
+<div class="tempWrap" style="overflow:hidden; position:relative; height:90px"><ul style="top: 0px; position: relative; padding: 0px; margin: 0px;">
+<li style="height: 90px; width:100%">
+<a href="http://changjiang.chinadevelopment.com.cn/gjzc/2017/08/1171277.shtml" target="_blank" title="">
+         <img width="100%" src="http://upload.chinadevelopment.com.cn/2017/0911/1505098854859.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+<li style="height: 90px; width:100%">
+<a href="http://changjiang.chinadevelopment.com.cn/gjzc/2017/08/1170070.shtml" target="_blank" title="">
+         <img width="100%"  src="http://upload.chinadevelopment.com.cn/2017/0911/1505098854338.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+
+</ul></div>
+</div>
+</div>
+<script>jQuery(".slideBox3").slide({mainCell:".bd ul",effect:"top",autoPlay:true});</script>
+
+</div>
+        <!--高端访谈-循环经济模块下广告-end-->
+
+        <!--交通水利-发展互动模块-start-->
+        <div class="jtsl_fzhd">
+            <div class="jtsl_left">
+                <div class="title_1">
+                    <div class="title_1_div"><a href="http://changjiang.chinadevelopment.com.cn/jtsl/" target="_blank">交通水利</a></div>
+                    <div class="littlegg">
+                      <a href="http://www.jthbj.gov.cn/" title="" target="_blank"><img alt="" src="http://upload.chinadevelopment.com.cn/2015/0204/1423026890364.gif" data-bd-imgshare-binded="1"></a>
+                    </div>
+                </div>
+                <div class="jtsl_con">
+                    <div class="jtsl_con_left">
+                        <div class="con_list1">
+                            <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/jtsl/2018/01/1218982.shtml" title="长江上游国际物流通道体系成型"  target="_blank">长江上游国际物流通道体系成型</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/jtsl/2017/12/1215804.shtml" title="宁波舟山港成为全球首个“10亿吨”大港 车俊宣布第10亿吨货物起吊"  target="_blank">宁波舟山港成为全球首个“10亿吨”大港 车俊宣布第1</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/jtsl/2017/12/1215258.shtml" title="“五纵五横”大通道基本贯通 5年增长约53.4万公里"  target="_blank">“五纵五横”大通道基本贯通 5年增长约53.4万公里</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/jtsl/2017/12/1214646.shtml" title="蒙华铁路洞庭湖特大桥主桥工程进入收尾阶段"  target="_blank">蒙华铁路洞庭湖特大桥主桥工程进入收尾阶段</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/jtsl/2017/12/1212754.shtml" title="京杭大运河：水清河美 繁华重现"  target="_blank">京杭大运河：水清河美 繁华重现</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/jtsl/2017/11/1193983.shtml" title="湘江水的热量“搬”来供暖 长沙迈入集中供暖3.0时代"  target="_blank">湘江水的热量“搬”来供暖 长沙迈入集中供暖3.0时代</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/jtsl/2017/11/1193981.shtml" title="合肥轨道交通建设新进展：2号线开通倒计时 3号线成功下穿匡河"  target="_blank">合肥轨道交通建设新进展：2号线开通倒计时 3号线成</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/jtsl/2017/11/1193452.shtml" title="南京长江大桥铺设桥面钢板 已铺设近400米"  target="_blank">南京长江大桥铺设桥面钢板 已铺设近400米</a></li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="jtsl_con_right">
+                        <div style="width:100%;height:150px;margin-top:0px">
+<a href="http://changjiang.chinadevelopment.com.cn/jtsl/2018/01/1224930.shtml" target="_blank" title="盐通铁路正式开工建设 ，盐城将全面融合上海“一小时经济圈”"><img width="100%" height="150px" border="null" src="http://upload.chinadevelopment.com.cn/2018/0117/1516177227397.jpg"  alt="盐通铁路正式开工建设 ，盐城将全面融合上海“一小时经济圈”"  /></a>
+</div>
+<div style="width:100%;margin-top:10px;line-height:25px;text-align:center">
+<a href="http://changjiang.chinadevelopment.com.cn/jtsl/2018/01/1224930.shtml" target="_blank" title="盐通铁路正式开工建设 ，盐城将全面融合上海“一小时经济圈”">盐通铁路正式开工建设 ，盐城将全面融合上海“一小时经济圈”</a>
+</div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="fzhd_right">
+                <div class="title_2">
+                    <div class="title_2_div"><a href="http://changjiang.chinadevelopment.com.cn/fzhd/" target="_blank">协同发展</a></div>
+                    <div class="littlegg">
+                      <a href="http://wjhbj.wj.gov.cn/" title="" target="_blank"><img alt="" src="http://upload.chinadevelopment.com.cn/2015/0202/1422864515307.gif" data-bd-imgshare-binded="1"></a>
+                    </div>
+                </div>
+                <div class="fzhd_con">
+                    <div class="con_list1">
+                        <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fzhd/2018/07/1300117.shtml" title="湖南省与三峡集团签署共抓长江大保护战略合作框架协议"  target="_blank">湖南省与三峡集团签署共抓长江大保护战略合作框架协</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fzhd/2018/06/1285850.shtml" title="川渝合作：携手合作共谋发展 突出务实重在落实"  target="_blank">川渝合作：携手合作共谋发展 突出务实重在落实</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fzhd/2018/05/1265954.shtml" title="探索协同推进生态优先和绿色发展新路子"  target="_blank">探索协同推进生态优先和绿色发展新路子</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fzhd/2018/04/1258429.shtml" title="全球房车行业论坛——第四届世界房车大会10月在泸召开"  target="_blank">全球房车行业论坛——第四届世界房车大会10月在泸召</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fzhd/2018/03/1248442.shtml" title="崇川区城东街道又迎来一批前来考察项目载体的团队"  target="_blank">崇川区城东街道又迎来一批前来考察项目载体的团队</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fzhd/2018/03/1246292.shtml" title="“共抓大保护”---江西推动长江经济带发展"  target="_blank">“共抓大保护”---江西推动长江经济带发展</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fzhd/2018/03/1243136.shtml" title="全国政协委员张桂平：长江经济带协同发展"  target="_blank">全国政协委员张桂平：长江经济带协同发展</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fzhd/2018/02/1234235.shtml" title="浙江接轨上海助推长三角一体化纪实"  target="_blank">浙江接轨上海助推长三角一体化纪实</a></li>
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--交通水利-发展互动模块-end-->
+
+        <!--交通水利-发展互动模块下广告-start-->
+            <div class="gg_gdpt">
+<div id="slideBox4" class="slideBox4">
+<div class="bd">
+<div class="tempWrap" style="overflow:hidden; position:relative; height:90px"><ul style="top: 0px; position: relative; padding: 0px; margin: 0px;">
+<li style="height: 90px; width:100%">
+<a href="http://changjiang.chinadevelopment.com.cn/gjzc/2017/08/1168685.shtml" target="_blank" title="">
+         <img width="100%" src="http://upload.chinadevelopment.com.cn/2017/0911/1505108219479.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+<li style="height: 90px; width:100%">
+<a href="http://changjiang.chinadevelopment.com.cn/gjzc/2017/05/1141527.shtml" target="_blank" title="">
+         <img width="100%"  src="http://upload.chinadevelopment.com.cn/2017/0911/1505108219975.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+
+</ul></div>
+</div>
+</div>
+<script>jQuery(".slideBox4").slide({mainCell:".bd ul",effect:"top",autoPlay:true});</script>
+
+</div>
+        <!--交通水利-发展互动模块下广告-end-->
+        
+        
+        
+        
+        
+        
+        <!--美丽乡村-生态宜居模块-start-->
+        <div class="jtsl_fzhd">
+            <div class="jtsl_left">
+                <div class="title_1">
+                    <div class="title_1_div"><a href="http://changjiang.chinadevelopment.com.cn/mlxc/" target="_blank">美丽乡村</a></div>
+                    <div class="littlegg">
+                      <a href="http://www.jthbj.gov.cn/" title="" target="_blank"><img alt="" src="http://upload.chinadevelopment.com.cn/2015/0204/1423026890364.gif" data-bd-imgshare-binded="1"></a>
+                    </div>
+                </div>
+                <div class="jtsl_con">
+                    <div class="jtsl_con_left">
+                        <div class="con_list1">
+                            <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/07/1312414.shtml" title="说真话 做实事 一心为民谋福祉"  target="_blank">说真话 做实事 一心为民谋福祉</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/07/1309355.shtml" title="山列万峰呈胜景，田陈八卦展新畴。"  target="_blank">山列万峰呈胜景，田陈八卦展新畴。</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/07/1301620.shtml" title="湖南：早稻才收千廪满，晚禾又种万田春"  target="_blank">湖南：早稻才收千廪满，晚禾又种万田春</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/06/1286384.shtml" title="重庆武隆：赛采茶 斗茶艺"  target="_blank">重庆武隆：赛采茶 斗茶艺</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/06/1286350.shtml" title="重庆艳山红村：“3+1”花卉经营模式 助力脱贫增收"  target="_blank">重庆艳山红村：“3+1”花卉经营模式 助力脱贫增收</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/06/1284842.shtml" title="包中香黍分边角，彩丝剪就交绒索"  target="_blank">包中香黍分边角，彩丝剪就交绒索</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/06/1281880.shtml" title="浙江安吉：积极建设“美丽乡村”"  target="_blank">浙江安吉：积极建设“美丽乡村”</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/06/1279998.shtml" title="《乡村振兴战略规划（2018—2022年）》和《关于打赢脱贫攻坚战三年行动的指导意见》审议通过 "  target="_blank">《乡村振兴战略规划（2018—2022年）》和《关于打赢</a></li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="jtsl_con_right">
+                        <div style="width:100%;height:150px;margin-top:0px">
+<a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/08/1323001.shtml" target="_blank" title="三千西子聚淳安，美溢仙湖意态娴"><img width="100%" height="150px" border="null" src="http://upload.chinadevelopment.com.cn/2018/0803/1533260846639.jpg"  alt="三千西子聚淳安，美溢仙湖意态娴"  /></a>
+</div>
+<div style="width:100%;margin-top:10px;line-height:25px;text-align:center">
+<a href="http://changjiang.chinadevelopment.com.cn/mlxc/2018/08/1323001.shtml" target="_blank" title="三千西子聚淳安，美溢仙湖意态娴">三千西子聚淳安，美溢仙湖意态娴</a>
+</div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="fzhd_right">
+                <div class="title_2">
+                    <div class="title_2_div"><a href="http://changjiang.chinadevelopment.com.cn/styj/" target="_blank">生态宜居</a></div>
+                    <div class="littlegg">
+                      <a href="http://wjhbj.wj.gov.cn/" title="" target="_blank"><img alt="" src="http://upload.chinadevelopment.com.cn/2015/0202/1422864515307.gif" data-bd-imgshare-binded="1"></a>
+                    </div>
+                </div>
+                <div class="fzhd_con">
+                    <div class="con_list1">
+                        <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/styj/2018/07/1321585.shtml" title="荷兰花海香满大丰 花文化催热旅游经济"  target="_blank">荷兰花海香满大丰 花文化催热旅游经济</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/styj/2018/07/1315628.shtml" title="盐城黄海森林公园：森林生态，海滨风情"  target="_blank">盐城黄海森林公园：森林生态，海滨风情</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/styj/2018/07/1307322.shtml" title="江苏特色小镇首批“年考”成绩揭榜"  target="_blank">江苏特色小镇首批“年考”成绩揭榜</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/styj/2018/07/1299656.shtml" title="生态贵阳：绿意盎然显生机"  target="_blank">生态贵阳：绿意盎然显生机</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/styj/2018/06/1286370.shtml" title="湖北秭归：迎端午体验民俗"  target="_blank">湖北秭归：迎端午体验民俗</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/styj/2018/06/1284494.shtml" title="杭州八卦田：惟有绿荷红菡萏，卷舒开合任天真"  target="_blank">杭州八卦田：惟有绿荷红菡萏，卷舒开合任天真</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/styj/2018/06/1284261.shtml" title="浙江:社会各界献爱心 首批“梦想足球场”投入使用"  target="_blank">浙江:社会各界献爱心 首批“梦想足球场”投入使用</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/styj/2018/05/1275586.shtml" title="人民网评：为老百姓留住鸟语花香田园风光"  target="_blank">人民网评：为老百姓留住鸟语花香田园风光</a></li>
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--美丽乡村-生态宜居模块-end-->
+
+        <!--美丽乡村-生态宜居模块下广告-start-->
+            <!--include virtual="/section/3179.html"-->
+        <!--美丽乡村-生态宜居模块下广告-end-->
+        
+        
+        
+        
+        
+        
+        
+        
+        <!--产业兴旺-治理有效模块-start-->
+        <div class="jtsl_fzhd">
+            <div class="jtsl_left">
+                <div class="title_1">
+                    <div class="title_1_div"><a href="http://changjiang.chinadevelopment.com.cn/cyxw/" target="_blank">产业兴旺</a></div>
+                    <div class="littlegg">
+                      <a href="http://www.jthbj.gov.cn/" title="" target="_blank"><img alt="" src="http://upload.chinadevelopment.com.cn/2015/0204/1423026890364.gif" data-bd-imgshare-binded="1"></a>
+                    </div>
+                </div>
+                <div class="jtsl_con">
+                    <div class="jtsl_con_left">
+                        <div class="con_list1">
+                           <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/06/1284500.shtml" title="湖北宣恩：机械化采茶效率高"  target="_blank">湖北宣恩：机械化采茶效率高</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/05/1274508.shtml" title="门源：北山乡大力实施乡村振兴战略 以产业兴旺为突破口全力保障春耕备播生产"  target="_blank">门源：北山乡大力实施乡村振兴战略 以产业兴旺为突</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/05/1274495.shtml" title="石柱：发展特色农业 助推乡村产业兴旺"  target="_blank">石柱：发展特色农业 助推乡村产业兴旺</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/05/1274487.shtml" title="“融合” ---助力产业兴旺 推动乡村振兴"  target="_blank">“融合” ---助力产业兴旺 推动乡村振兴</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/05/1274492.shtml" title="实现产业兴旺应从五个方面发力"  target="_blank">实现产业兴旺应从五个方面发力</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/05/1274475.shtml" title="江苏常州：司法行政助力乡村振兴"  target="_blank">江苏常州：司法行政助力乡村振兴</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/05/1265543.shtml" title="洋河农业嘉年华--打造乡村振兴示范区的新样板"  target="_blank">洋河农业嘉年华--打造乡村振兴示范区的新样板</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/04/1262391.shtml" title="江苏银宝集团举行爱岗敬业模范事迹报告会"  target="_blank">江苏银宝集团举行爱岗敬业模范事迹报告会</a></li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="jtsl_con_right">
+                        <div style="width:100%;height:150px;margin-top:0px">
+<a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/08/1323012.shtml" target="_blank" title="江苏海安：家庭农场逐步向现代化发展"><img width="100%" height="150px" border="null" src="http://upload.chinadevelopment.com.cn/2018/0803/1533261404945.jpg"  alt="江苏海安：家庭农场逐步向现代化发展"  /></a>
+</div>
+<div style="width:100%;margin-top:10px;line-height:25px;text-align:center">
+<a href="http://changjiang.chinadevelopment.com.cn/cyxw/2018/08/1323012.shtml" target="_blank" title="江苏海安：家庭农场逐步向现代化发展">江苏海安：家庭农场逐步向现代化发展</a>
+</div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="fzhd_right">
+                <div class="title_2">
+                    <div class="title_2_div"><a href="http://changjiang.chinadevelopment.com.cn/zlyx/" target="_blank">治理有效</a></div>
+                    <div class="littlegg">
+                      <a href="http://wjhbj.wj.gov.cn/" title="" target="_blank"><img alt="" src="http://upload.chinadevelopment.com.cn/2015/0202/1422864515307.gif" data-bd-imgshare-binded="1"></a>
+                    </div>
+                </div>
+                <div class="fzhd_con">
+                    <div class="con_list1">
+                        <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zlyx/2018/07/1312422.shtml" title="禄口街道三年水利建设行动计划推进情况调研报告"  target="_blank">禄口街道三年水利建设行动计划推进情况调研报告</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zlyx/2018/07/1309257.shtml" title="湖北宜昌：倡导长江生态保护，开展保护林认养活动"  target="_blank">湖北宜昌：倡导长江生态保护，开展保护林认养活动</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zlyx/2018/07/1299679.shtml" title="映林同落雪，拂水状翻潮"  target="_blank">映林同落雪，拂水状翻潮</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zlyx/2018/07/1299667.shtml" title="江苏苏州：全域推进农村生活污水治理"  target="_blank">江苏苏州：全域推进农村生活污水治理</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zlyx/2018/06/1292846.shtml" title="江苏泗洪：积极推进“百河千渠”整治工程"  target="_blank">江苏泗洪：积极推进“百河千渠”整治工程</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zlyx/2018/06/1292818.shtml" title="三合村：‘变废为宝’ 积极推进矿山整治复绿"  target="_blank">三合村：‘变废为宝’ 积极推进矿山整治复绿</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zlyx/2018/06/1285793.shtml" title="坚持绿色发展理念 打造水绿生态灌南"  target="_blank">坚持绿色发展理念 打造水绿生态灌南</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zlyx/2018/05/1274520.shtml" title="南通：坚持绿色生态发展 “江海明珠”闪耀光彩"  target="_blank">南通：坚持绿色生态发展 “江海明珠”闪耀光彩</a></li>
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--产业兴旺-治理有效模块-end-->
+
+        <!--产业兴旺-治理有效模块下广告-start-->
+            <div class="gg_gdpt">
+<div id="slideBox4" class="slideBox4">
+<div class="bd">
+<div class="tempWrap" style="overflow:hidden; position:relative; height:76px"><ul style="top: 0px; position: relative; padding: 0px; margin: 0px;">
+<li style="height: 76px; width:100%">
+<a href="http://changjiang.chinadevelopment.com.cn/gjzc/2017/08/1168685.shtml" target="_blank" title="">
+         <img width="100%" src="http://upload.chinadevelopment.com.cn/2018/0515/1526367005522.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+<li style="height: 76px; width:100%">
+<a href="http://changjiang.chinadevelopment.com.cn/gjzc/2017/05/1141527.shtml" target="_blank" title="">
+         <img width="100%"  src="http://upload.chinadevelopment.com.cn/2018/0515/1526367005522.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+
+</ul></div>
+</div>
+</div>
+<script>jQuery(".slideBox4").slide({mainCell:".bd ul",effect:"top",autoPlay:true});</script>
+
+</div>
+        <!--产业兴旺-治理有效模块下广告-end-->
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <!--长江影像模块-start-->
+        <div class="con3">
+            <div class="title_1">
+                    <div><a href="http://changjiang.chinadevelopment.com.cn/cjyx/" target="_blank">长江影像</a></div>
+            </div>
+            <div class="sub_img1"></div>
+            <div class="sub_con1"><ul>
+  <li class="con3_firstli">
+    <a href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/08/1322969.shtml" target="_blank" title="“保护长江母亲河”---我们在行动"><img src="http://upload.chinadevelopment.com.cn/2018/0803/1533259862738.jpg"  alt="“保护长江母亲河”---我们在行动"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/08/1322969.shtml" target="_blank" title="“保护长江母亲河”---我们在行动">“保护长江母亲河”---我们在行</a>
+</li>
+  <li class="con3_elseli">
+    <a href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/07/1309327.shtml" target="_blank" title="三峡水库将迎来今年以来最大洪峰"><img src="http://upload.chinadevelopment.com.cn/2018/0716/1531707867443.jpg"  alt="三峡水库将迎来今年以来最大洪峰"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/07/1309327.shtml" target="_blank" title="三峡水库将迎来今年以来最大洪峰">三峡水库将迎来今年以来最大洪峰</a>
+</li>
+  <li class="con3_elseli">
+    <a href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/07/1309273.shtml" target="_blank" title="湖南双峰：七月时节酱飘香"><img src="http://upload.chinadevelopment.com.cn/2018/0716/1531706412217.jpg"  alt="湖南双峰：七月时节酱飘香"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/07/1309273.shtml" target="_blank" title="湖南双峰：七月时节酱飘香">湖南双峰：七月时节酱飘香</a>
+</li>
+  <li class="con3_elseli">
+    <a href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/06/1292858.shtml" target="_blank" title="江苏涟水：“农光互补”发电场"><img src="http://upload.chinadevelopment.com.cn/2018/0626/1529998920549.jpg"  alt="江苏涟水：“农光互补”发电场"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/06/1292858.shtml" target="_blank" title="江苏涟水：“农光互补”发电场">江苏涟水：“农光互补”发电场</a>
+</li>
+  <li class="con3_elseli">
+    <a href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/06/1292839.shtml" target="_blank" title="贵州榕江：远望梯田叠交错,  犹如海上层层波"><img src="http://upload.chinadevelopment.com.cn/2018/0626/1529997764508.jpg"  alt="贵州榕江：远望梯田叠交错,  犹如海上层层波"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/cjyx/2018/06/1292839.shtml" target="_blank" title="贵州榕江：远望梯田叠交错,  犹如海上层层波">贵州榕江：远望梯田叠交错, 犹如</a>
+</li>
+</ul></div>
+            <div class="sub_img2"></div>
+            <div class="sub_con2"><ul>
+  <li class="con3_firstli">
+    <a href="http://changjiang.chinadevelopment.com.cn/cjyx/2015/05/900980.shtml" target="_blank" title="生态文明，从我做起"><img src="http://media.chinadevelopment.com.cn/pic/20150508/dbb55b9ff9dbfcc4c10fff61eefe61a3-4.jpg"  alt="生态文明，从我做起"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/cjyx/2015/05/900980.shtml" target="_blank" title="生态文明，从我做起">生态文明，从我做起</a>
+</li>
+  <li class="con3_elseli">
+    <a href="http://changjiang.chinadevelopment.com.cn/cjyx/2015/05/900979.shtml" target="_blank" title="建设节约型社会，人人有责"><img src="http://media.chinadevelopment.com.cn/pic/20150510/43395a2d8db36641359bb8737526bb16-2.jpg"  alt="建设节约型社会，人人有责"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/cjyx/2015/05/900979.shtml" target="_blank" title="建设节约型社会，人人有责">建设节约型社会，人人有责</a>
+</li>
+  <li class="con3_elseli">
+    <a href="http://changjiang.chinadevelopment.com.cn/cjyx/2015/05/900978.shtml" target="_blank" title="地球在呐喊！"><img src="http://media.chinadevelopment.com.cn/pic/20150513/6cad57c277188fe9a799749d0227dddc-2.jpg"  alt="地球在呐喊！"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/cjyx/2015/05/900978.shtml" target="_blank" title="地球在呐喊！">地球在呐喊！</a>
+</li>
+  <li class="con3_elseli">
+    <a href="http://changjiang.chinadevelopment.com.cn/cjyx/2015/05/900977.shtml" target="_blank" title="低碳生活，举手之劳"><img src="http://media.chinadevelopment.com.cn/pic/20150513/3851580325f029dac23f23fa0df090f1-6.jpg"  alt="低碳生活，举手之劳"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/cjyx/2015/05/900977.shtml" target="_blank" title="低碳生活，举手之劳">低碳生活，举手之劳</a>
+</li>
+  <li class="con3_elseli">
+    <a href="http://changjiang.chinadevelopment.com.cn/cjyx/2015/05/900976.shtml" target="_blank" title="生态文明公益广告"><img src="http://media.chinadevelopment.com.cn/pic/20150513/2c588bbb431e8ba562221766679b33e8-3.jpg"  alt="生态文明公益广告"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/cjyx/2015/05/900976.shtml" target="_blank" title="生态文明公益广告">生态文明公益广告</a>
+</li>
+</ul></div>
+        </div>
+        <!--长江影像模块-end-->
+ <div class="gg_gdpt">
+<div id="slideBox5" class="slideBox5">
+<div class="bd">
+<div class="tempWrap" style="overflow:hidden; position:relative; height:90px"><ul style="top: 0px; position: relative; padding: 0px; margin: 0px;">
+<li style="height: 90px; width:100%">
+<a target="_blank" title="">
+         <img width="100%" src="http://upload.chinadevelopment.com.cn/2017/0911/1505108351819.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+<li style="height: 90px; width:100%">
+<a href="http://changjiang.chinadevelopment.com.cn/gjzc/2017/08/1168035.shtml" target="_blank" title="">
+         <img width="100%"  src="http://upload.chinadevelopment.com.cn/2017/0911/1505108351740.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+
+</ul></div>
+</div>
+</div>
+<script>jQuery(".slideBox5").slide({mainCell:".bd ul",effect:"top",autoPlay:true});</script>
+
+</div>
+        <!--法眼财经-产业集聚模块-start-->
+        <div class="fycj_cyjj">
+            <div class="fycj_left">
+               
+                <div class="title_1">
+                    <div class="title_1_div"><a href="http://changjiang.chinadevelopment.com.cn/fyjj/" target="_blank">经济与法</a></div>
+                    <div class="littlegg">
+                      
+                    </div>
+                </div>
+                <div class="fycj_con">
+                    <div class="fycj_con_left">
+                        <div class="con_list1">
+                            <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/11/1191610.shtml" title="沪港通内地投资者继续免征个税"  target="_blank">沪港通内地投资者继续免征个税</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/11/1189839.shtml" title="前三季浙江省企业减负920多亿元"  target="_blank">前三季浙江省企业减负920多亿元</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/10/1180876.shtml" title="统计局：今年实现GDP6.5%增速没问题"  target="_blank">统计局：今年实现GDP6.5%增速没问题</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/08/1170056.shtml" title="四川警方跨国抓骗 122名中国籍嫌疑人被抓获"  target="_blank">四川警方跨国抓骗 122名中国籍嫌疑人被抓获</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/08/1168676.shtml" title="法治之光耀之江 全面依法治国的浙江实践"  target="_blank">法治之光耀之江 全面依法治国的浙江实践</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/08/1168405.shtml" title="云南保山特殊群体涉毒案大幅下降"  target="_blank">云南保山特殊群体涉毒案大幅下降</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/08/1168027.shtml" title="辱骂踢伤执勤民警 湖北沙洋一女子阻碍执行职务被逮捕"  target="_blank">辱骂踢伤执勤民警 湖北沙洋一女子阻碍执行职务被</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/08/1167338.shtml" title="探索进口汽车闭环监管新模式"  target="_blank">探索进口汽车闭环监管新模式</a></li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="fycj_con_right">
+                        <div class="fycj_con_right_up">
+                            <div class="con_list2">
+                                <ul>
+  <li>
+    <a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/07/1161571.shtml" target="_blank" title="贵州南明公安3小时破获手机盗窃案"><img src="http://upload.chinadevelopment.com.cn/2017/0721/1500607572580.jpg"  alt="贵州南明公安3小时破获手机盗窃案"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/07/1161571.shtml" target="_blank" title="贵州南明公安3小时破获手机盗窃案">贵州南明公安3小</a>
+</li>
+  <li>
+    <a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/05/1142931.shtml" target="_blank" title="5箱普洱价值千万？贩毒团伙将冰毒伪装成饼茶"><img src="http://upload.chinadevelopment.com.cn/2017/0519/1495159484392.jpg"  alt="5箱普洱价值千万？贩毒团伙将冰毒伪装成饼茶"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/05/1142931.shtml" target="_blank" title="5箱普洱价值千万？贩毒团伙将冰毒伪装成饼茶">5箱普洱价值千万</a>
+</li>
+</ul>
+                            </div>
+                        </div>
+                        <div class="fycj_con_right_down">
+                            <div class="con_list5">
+                                <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/08/1170403.shtml" title="为法治中国建设不懈努力"  target="_blank">为法治中国建设不懈努力</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/08/1170062.shtml" title="云南临沧边防破获特大跨国贩毒案 缴毒12余公斤"  target="_blank">云南临沧边防破获特大跨国贩毒案</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/08/1169696.shtml" title="非法捕捞30余斤江鱼 两名“网上在逃”男子投案自首"  target="_blank">非法捕捞30余斤江鱼 两名“网上</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/fyjj/2017/08/1169022.shtml" title="湖北十堰张湾“智慧警务”提档升级 激发群防群治新活力"  target="_blank">湖北十堰张湾“智慧警务”提档升</a></li>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="cyjj_right">
+                <div class="title_2">
+                    <div class="title_2_div"><a href="http://changjiang.chinadevelopment.com.cn/cyjj/" target="_blank">产业集聚</a></div>
+                    <div class="littlegg">
+                      
+                    </div>
+                </div>
+                <div class="cyjj_con">
+                    <div class="con_list1">
+                     <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyjj/2018/05/1277331.shtml" title="博乐国盛全球跨境电商（贸易）产业园落户签约仪式在博州举行"  target="_blank">博乐国盛全球跨境电商（贸易）产业园落户签约仪式</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyjj/2018/01/1226158.shtml" title="江苏乾宝牧业——中国湖羊全产业链践行者"  target="_blank">江苏乾宝牧业——中国湖羊全产业链践行者</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyjj/2017/12/1215809.shtml" title="“海峡两岸产业合作区”在四川成立"  target="_blank">“海峡两岸产业合作区”在四川成立</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyjj/2017/12/1214189.shtml" title="碳时代润滑油布局网约车市场，践行节能减排打造新时代绿色联盟"  target="_blank">碳时代润滑油布局网约车市场，践行节能减排打造新</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyjj/2017/12/1214219.shtml" title="南京玄武区徐庄软件园构建“产业社区”党建新模式"  target="_blank">南京玄武区徐庄软件园构建“产业社区”党建新模式</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyjj/2017/12/1214251.shtml" title="砥砺奋进促发展喜看银宝这五年"  target="_blank">砥砺奋进促发展喜看银宝这五年</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyjj/2017/12/1214221.shtml" title="国盛全球购（嘉兴）全球商品采购中心签约落地"  target="_blank">国盛全球购（嘉兴）全球商品采购中心签约落地</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/cyjj/2017/12/1213817.shtml" title="扬州港江都港区锚地难求 加重港口企业负担"  target="_blank">扬州港江都港区锚地难求 加重港口企业负担</a></li>
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--法眼财经-产业集聚模块-end-->
+
+        <!--旅游品牌-矿产资源模块-start-->
+        <div class="lypp_kczy">
+            <div class="lypp_left">
+                <div class="title_1">
+                    <div class="title_1_div" style="width:160px"><a href="http://changjiang.chinadevelopment.com.cn/lypp/" target="_blank">人文长江</a><span style="margin-left: 20px;">行走长江</span></div>
+                    <div class="title_1_div" style="width: 160px;margin-left: 217px;"><a href="http://changjiang.chinadevelopment.com.cn/lypp/" target="_blank">人文长江</a><span style="margin-left: 20px;">食遍长江</span></div>
+                </div>
+
+
+                <div class="lypp_con">
+                    <div class="lypp_con_left">
+                             <div class="lypp_con_left_up">
+                                <div class="con_list4">
+                                <table cellpadding="0" cellspacing="0">
+    <tr>
+        <td class="con_list4_td1">
+            <a href="http://changjiang.chinadevelopment.com.cn/xzcj/2018/01/1220081.shtml" target="_blank" title="让中华民族母亲河永葆生机活力"><img src="http://upload.chinadevelopment.com.cn/2018/0105/1515135226997.jpg"  alt="让中华民族母亲河永葆生机活力"  />
+            </a>
+        </td>
+        <td class="con_list4_td2">
+            <div class="con_list4_div1"><a href="http://changjiang.chinadevelopment.com.cn/xzcj/2018/01/1220081.shtml" target="_blank" title="让中华民族母亲河永葆生机活力">让中华民族母亲河永葆生机活力</a></div>
+            <div class="con_list4_div2"><span></span></div>
+        </td>
+</tr>
+</table>
+
+                                </div>
+                            </div>
+                             <div class="lypp_con_left_down">
+                                <div class="con_list1">
+                                <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xzcj/2018/01/1228027.shtml" title="《人民日报》记者侯琳良：用鲜活图景诠释十九大精神"  target="_blank">《人民日报》记者侯琳良：用鲜活图景诠释十九大精神</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xzcj/2018/01/1220069.shtml" title="巨龙腾飞正当时（新时代 新气象 新作为）"  target="_blank">巨龙腾飞正当时（新时代 新气象 新作为）</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xzcj/2017/11/1193595.shtml" title="厕所革命任务超额完成 覆盖370城市2万多个乡村 "  target="_blank">厕所革命任务超额完成 覆盖370城市2万多个乡村 </a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xzcj/2017/10/1181496.shtml" title="恩施将于11月22日举办第三届全国民宿大会"  target="_blank">恩施将于11月22日举办第三届全国民宿大会</a></li>
+</ul>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="lypp_con_right">
+                        <div class="lypp_con_right_down">
+                            <div class="con_list5">
+                                <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/sbcj/2017/08/1170421.shtml" title="在四川成都喝咖啡只知道星巴克就Out啦，这几个网红咖啡店你去过吗"  target="_blank">在四川成都喝咖啡只知道星巴克就</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/sbcj/2017/08/1170048.shtml" title="四川成都餐饮代表团亮相香港国际美食博览会"  target="_blank">四川成都餐饮代表团亮相香港国际</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/sbcj/2017/08/1169631.shtml" title="入秋啦！吃吃这两个秋果王"  target="_blank">入秋啦！吃吃这两个秋果王</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/sbcj/2017/08/1169017.shtml" title="中国恩施“土苗源味”美食文化节将举办"  target="_blank">中国恩施“土苗源味”美食文化节</a></li>
+</ul>
+                             </div>
+                        </div>
+                        <div class="lypp_con_right_up" >
+                            <div class="con_list2">
+                                <ul>
+  <li>
+    <a href="http://changjiang.chinadevelopment.com.cn/sbcj/2017/12/1214628.shtml" target="_blank" title="广西侗乡三江摆“百家宴”过侗年"><img src="http://upload.chinadevelopment.com.cn/2017/1226/1514255797359.jpg"  alt="广西侗乡三江摆“百家宴”过侗年"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/sbcj/2017/12/1214628.shtml" target="_blank" title="广西侗乡三江摆“百家宴”过侗年">广西侗乡三江摆“</a>
+</li>
+  <li>
+    <a href="http://changjiang.chinadevelopment.com.cn/sbcj/2017/08/1170051.shtml" target="_blank" title="一条200米长的街上开了10家店 传统冰粉今夏为何特别火"><img src="http://upload.chinadevelopment.com.cn/2017/0823/1503471082206.jpg"  alt="一条200米长的街上开了10家店 传统冰粉今夏为何特别火"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/sbcj/2017/08/1170051.shtml" target="_blank" title="一条200米长的街上开了10家店 传统冰粉今夏为何特别火">一条200米长的街</a>
+</li>
+</ul>
+                            </div>
+                                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="kczy_right">
+                <div class="title_2">
+                    <div class="title_2_div" style="width:160px"><a href="http://changjiang.chinadevelopment.com.cn/snzx/" target="_blank">一羽谈</a><span style="margin-left:20px">一羽•坛</span></div>
+                </div>
+                <div class="kczy_con">
+                    <div class="con_list1">
+                       <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/yyt/2018/05/1277335.shtml" title="写在笫47个世界环境日之际-----"  target="_blank">写在笫47个世界环境日之际-----</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/yyt/2018/02/1236150.shtml" title="舌尖上的乡愁"  target="_blank">舌尖上的乡愁</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/yyt/2017/10/1183764.shtml" title="七律．喜庆党的十九大胜利召开  "  target="_blank">七律．喜庆党的十九大胜利召开 </a></li>
+</ul>
+                    </div>
+                </div>
+                </div>
+                <div class="kczy_right" style="margin-top:20px">
+                <div class="title_2">
+                    <div class="title_2_div"  style="width:160px"><a href="http://changjiang.chinadevelopment.com.cn/snzx/" target="_blank">一羽谈</a><span style="margin-left:20px">一羽•弹</span></div>
+                    </div>
+                    <div class="kczy_con">
+                    <div class="con_list1">
+                       <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/yyd/2018/06/1287869.shtml" title="其实天堂很遥远"  target="_blank">其实天堂很遥远</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/yyd/2017/08/1170424.shtml" title="江苏苏州常熟15亿推"智造"转型 今年完成智能化改造项目100个"  target="_blank">江苏苏州常熟15亿推&quot;智造&quot;转型 今年完成智能化改</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/yyd/2017/08/1170044.shtml" title="江苏：物价部门推动纵向网建设"  target="_blank">江苏：物价部门推动纵向网建设</a></li>
+</ul>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        <!--旅游品牌-矿产资源模块-end-->
+
+    <div class="gg_gdpt">
+<div id="slideBox6" class="slideBox6">
+<div class="bd">
+<div class="tempWrap" style="overflow:hidden; position:relative; height:90px"><ul style="top: 0px; position: relative; padding: 0px; margin: 0px;">
+<li style="height: 90px; width:100%">
+<a target="_blank" title="">
+         <img width="100%" src="http://upload.chinadevelopment.com.cn/2017/0911/1505108499701.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+<li style="height: 90px; width:100%">
+<a target="_blank" title="">
+         <img width="100%"  src="http://upload.chinadevelopment.com.cn/2017/0911/1505108499718.jpg" data-bd-imgshare-binded="1"></a>
+      </li>
+
+</ul></div>
+</div>
+</div>
+<script>jQuery(".slideBox6").slide({mainCell:".bd ul",effect:"top",autoPlay:true});</script>
+
+</div>
+    <!--法眼财经-产业集聚模块-start-->
+        <div class="fycj_cyjj">
+            <div class="fycj_left">
+                <div class="title_1">
+                    <div class="title_1_div"><a href="http://changjiang.chinadevelopment.com.cn/stwm/" target="_blank">生态文明</a></div>
+                    <div class="littlegg">
+                      
+                    </div>
+                </div>
+                <div class="fycj_con">
+                    <div class="fycj_con_left">
+                        <div class="con_list1">
+                            <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/03/1248395.shtml" title="长江大保护的荆州答卷：构筑长江经济带生态廊道"  target="_blank">长江大保护的荆州答卷：构筑长江经济带生态廊道</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/03/1247794.shtml" title="江苏六部门联合行动打击长江流域污染环境违法犯罪行为"  target="_blank">江苏六部门联合行动打击长江流域污染环境违法犯罪</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/03/1244788.shtml" title="工信部组织11省市开展长江经济带固体废物大排查行动"  target="_blank">工信部组织11省市开展长江经济带固体废物大排查行</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/03/1243135.shtml" title="让万里长江变绿色画廊"  target="_blank">让万里长江变绿色画廊</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/02/1239679.shtml" title="公安部：将挂牌督办45起污染环境案件"  target="_blank">公安部：将挂牌督办45起污染环境案件</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/03/1239676.shtml" title="湖南：还洞庭一湖清水"  target="_blank">湖南：还洞庭一湖清水</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/02/1234227.shtml" title="“寻找中国好水”聚焦长江经济带 贵州赤水河等五地入选"  target="_blank">“寻找中国好水”聚焦长江经济带 贵州赤水河等五</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/02/1233453.shtml" title="构建绿色协同发展机制推动乌江流域生态保护"  target="_blank">构建绿色协同发展机制推动乌江流域生态保护</a></li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="fycj_con_right">
+                        <div class="fycj_con_right_up">
+                            <div class="con_list2">
+                                <ul>
+  <li>
+    <a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/07/1315587.shtml" target="_blank" title="擘画新时代中国发展新坐标——深入推动长江经济带发展述评"><img src="2018/0724/1532399362954.jpg"  alt="擘画新时代中国发展新坐标——深入推动长江经济带发展述评"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/stwm/2018/07/1315587.shtml" target="_blank" title="擘画新时代中国发展新坐标——深入推动长江经济带发展述评">擘画新时代中国发</a>
+</li>
+  <li>
+    <a href="http://changjiang.chinadevelopment.com.cn/stwm/2018/03/1240136.shtml" target="_blank" title="一群鹤改变一个村"><img src="http://upload.chinadevelopment.com.cn/2018/0306/1520316012770.jpg"  alt="一群鹤改变一个村"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/stwm/2018/03/1240136.shtml" target="_blank" title="一群鹤改变一个村">一群鹤改变一个村</a>
+</li>
+</ul>
+                            </div>
+                        </div>
+                        <div class="fycj_con_right_down">
+                            <div class="con_list5">
+                                <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2017/08/1169679.shtml" title="安徽：生态优先 绿色发展"  target="_blank">安徽：生态优先 绿色发展</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2017/08/1168403.shtml" title="落实整改要求依法保护湖区生态 抚仙湖保护红线内别墅开始拆除 "  target="_blank">落实整改要求依法保护湖区生态 </a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2017/08/1165576.shtml" title="云龙天池：云南松的天然种质资源宝库 "  target="_blank">云龙天池：云南松的天然种质资源</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/stwm/2017/08/1165203.shtml" title="贵阳今年新建公园开工率达80%"  target="_blank">贵阳今年新建公园开工率达80%</a></li>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="cyjj_right">
+                <div class="title_2">
+                    <div class="title_2_div"><a href="http://changjiang.chinadevelopment.com.cn/kjww/" target="_blank">科教文卫</a></div>
+                    <div class="littlegg">
+                      
+                    </div>
+                </div>
+                <div class="cyjj_con">
+                    <div class="con_list1">
+                     <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/kjww/2018/07/1316475.shtml" title="长江经济带首次“绿水青山就是金山银山”创新实践培训班在丽水举办"  target="_blank">长江经济带首次“绿水青山就是金山银山”创新实践</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/kjww/2017/12/1210887.shtml" title="著名诗人余光中病逝 代表作《乡愁》等传播度广泛"  target="_blank">著名诗人余光中病逝 代表作《乡愁》等传播度广泛</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/kjww/2017/11/1193563.shtml" title="浙江全面推行基层医疗卫生机构补偿机制"  target="_blank">浙江全面推行基层医疗卫生机构补偿机制</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/kjww/2017/11/1191047.shtml" title="2017双11晚会对标奥运开幕式 为中国文化打call！"  target="_blank">2017双11晚会对标奥运开幕式 为中国文化打call！</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/kjww/2017/11/1189850.shtml" title="公共图书馆法出台 将于2018年1月1日起施行"  target="_blank">公共图书馆法出台 将于2018年1月1日起施行</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/kjww/2017/11/1187618.shtml" title="姜堰农民发明“无药灭虫机”"  target="_blank">姜堰农民发明“无药灭虫机”</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/kjww/2017/10/1185546.shtml" title="江苏105学科进入全球前1%"  target="_blank">江苏105学科进入全球前1%</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/kjww/2017/10/1183752.shtml" title="姜堰生态优势助推体育事业"  target="_blank">姜堰生态优势助推体育事业</a></li>
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--法眼财经-产业集聚模块-end-->
+
+        <!--旅游品牌-矿产资源模块-start-->
+        <div class="lypp_kczy" style="margin-top:30px">
+            <div class="lypp_left">
+                <div class="title_1">
+                    <div class="title_1_div" style="width:170px"><a href="http://changjiang.chinadevelopment.com.cn/kczy/" target="_blank">发展研究院</a><span style="margin-left: 20px;">智库视点</span></div>
+                    <div class="title_1_div" style="width: 170px;margin-left: 217px;"><a href="http://changjiang.chinadevelopment.com.cn/kczy/" target="_blank">发展研究院</a><span style="margin-left: 20px;">学术交流</span></div>
+                </div>
+
+                <div class="lypp_con">
+                    <div class="lypp_con_left">
+                             <div class="lypp_con_left_up">
+                                <div class="con_list4">
+                                <table cellpadding="0" cellspacing="0">
+    <tr>
+        <td class="con_list4_td1">
+            <a href="http://changjiang.chinadevelopment.com.cn/zksd/2018/03/1247415.shtml" target="_blank" title="中国长江经济经济带发展研究院院长袁羽钧受邀赴瓜洲、江都调研"><img src="http://upload.chinadevelopment.com.cn/2018/0326/1522072567256.png"  alt="中国长江经济经济带发展研究院院长袁羽钧受邀赴瓜洲、江都调研"  />
+            </a>
+        </td>
+        <td class="con_list4_td2">
+            <div class="con_list4_div1"><a href="http://changjiang.chinadevelopment.com.cn/zksd/2018/03/1247415.shtml" target="_blank" title="中国长江经济经济带发展研究院院长袁羽钧受邀赴瓜洲、江都调研">中国长江经济经济带发展研究院院长袁羽钧受邀赴瓜洲、江都调研</a></div>
+            <div class="con_list4_div2"><span></span></div>
+        </td>
+</tr>
+</table>
+
+                                </div>
+                            </div>
+                             <div class="lypp_con_left_down">
+                                <div class="con_list1">
+                                <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zksd/2018/01/1221668.shtml" title="浙江精准扶贫的实践与启示"  target="_blank">浙江精准扶贫的实践与启示</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zksd/2018/01/1220840.shtml" title="江苏发展改革工作会议明确八项举措 推动高质量发展"  target="_blank">江苏发展改革工作会议明确八项举措 推动高质量发展</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zksd/2017/12/1212865.shtml" title="政府出台政策必须实施公平竞争审查"  target="_blank">政府出台政策必须实施公平竞争审查</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/zksd/2017/12/1212390.shtml" title="“枫桥经验”申报世界红色遗产"  target="_blank">“枫桥经验”申报世界红色遗产</a></li>
+</ul>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="lypp_con_right">
+                        <div class="lypp_con_right_down">
+                            <div class="con_list5">
+                                <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xsjl/2018/01/1220519.shtml" title="推动长江经济带发展再上新台阶"  target="_blank">推动长江经济带发展再上新台阶</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xsjl/2017/08/1170426.shtml" title="国务院发文促进外资增长前7个月新设外资企业同比增12%"  target="_blank">国务院发文促进外资增长前7个月</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xsjl/2017/08/1169695.shtml" title="大城市病：“疏”“放”结合方能根治"  target="_blank">大城市病：“疏”“放”结合方能</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/xsjl/2017/08/1169283.shtml" title="国家对鼓励限制禁止三类境外投资活动将实施分类指导"  target="_blank">国家对鼓励限制禁止三类境外投资</a></li>
+</ul>
+                             </div>
+                        </div>
+                        <div class="lypp_con_right_up" >
+                            <div class="con_list2">
+                               <ul>
+  <li>
+    <a href="http://changjiang.chinadevelopment.com.cn/xsjl/2017/08/1170047.shtml" target="_blank" title="国家发展改革委首届公文展开幕"><img src="http://upload.chinadevelopment.com.cn/2017/0823/1503470775618.jpg"  alt="国家发展改革委首届公文展开幕"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/xsjl/2017/08/1170047.shtml" target="_blank" title="国家发展改革委首届公文展开幕">国家发展改革委首</a>
+</li>
+  <li>
+    <a href="http://changjiang.chinadevelopment.com.cn/xsjl/2017/07/1163534.shtml" target="_blank" title="放宽准入、垄断监管、数据共享分享经济发展注入崭新动力"><img src="http://upload.chinadevelopment.com.cn/2017/0728/1501227864848.jpg"  alt="放宽准入、垄断监管、数据共享分享经济发展注入崭新动力"  />
+    </a>
+<a  href="http://changjiang.chinadevelopment.com.cn/xsjl/2017/07/1163534.shtml" target="_blank" title="放宽准入、垄断监管、数据共享分享经济发展注入崭新动力">放宽准入、垄断监</a>
+</li>
+</ul>
+                            </div>
+                                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="kczy_right">
+                <div class="title_2">
+                    <div class="title_2_div"><a href="http://changjiang.chinadevelopment.com.cn/whys/" target="_blank">长江雅集</a></div>
+                    <div class="littlegg">
+                      
+                    </div>
+                </div>
+                <div class="kczy_con">
+                    <div class="con_list1">
+                        <ul>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/whys/2018/03/1244960.shtml" title="讴歌时代精神 抒发军旅情怀诗词作品集"  target="_blank">讴歌时代精神 抒发军旅情怀诗词作品集</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/whys/2017/12/1213804.shtml" title="诗词作品集"  target="_blank">诗词作品集</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/whys/2017/10/1183784.shtml" title="七律．喜庆党的十九大胜利召开"  target="_blank">七律．喜庆党的十九大胜利召开</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/whys/2017/10/1180836.shtml" title="探访苏州非遗金属凿刻：金属板上“舞”绝活"  target="_blank">探访苏州非遗金属凿刻：金属板上“舞”绝活</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/whys/2017/10/1180222.shtml" title="探寻非遗：百年龙凤花烛见证“边城”秀山浪漫爱情"  target="_blank">探寻非遗：百年龙凤花烛见证“边城”秀山浪漫爱情</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/whys/2017/09/1177111.shtml" title="海峡两岸中秋灯会周庄开幕"  target="_blank">海峡两岸中秋灯会周庄开幕</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/whys/2017/09/1177096.shtml" title="中国泰州梅兰芳艺术节开幕 副省长王江出席开幕式宣布开幕"  target="_blank">中国泰州梅兰芳艺术节开幕 副省长王江出席开幕式</a></li>
+  <li><span>&middot;</span><a href="http://changjiang.chinadevelopment.com.cn/whys/2017/09/1176853.shtml" title="以专题研究深挖馆藏资源 江苏省美术馆再推明清绘画展人物花鸟篇"  target="_blank">以专题研究深挖馆藏资源 江苏省美术馆再推明清绘</a></li>
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!--旅游品牌-矿产资源模块-end-->
+
+            <div class="index_con_box">
+                <div class="index_con_box_col">
+        <p><a href="http://www.gov.cn/guowuyuan/"  target="_blank">国务院</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.sdpc.gov.cn/"  target="_blank">国家发改委</a></p>
+      </div>
+                         <div class="index_con_box_col">
+        <p><a href="http://www.shanghai.gov.cn/"  target="_blank">中国上海</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.online.sh.cn/"  target="_blank">上海热线</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.jschina.com.cn/" target="_blank">中江网  </a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.jiangsu.gov.cn/" target="_blank">江苏省人民政府</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.zjol.com.cn/" target="_blank">浙江在线</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.zj.gov.cn/"    target="_blank">浙江省人民政府</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.anhuinews.com/" target="_blank">中安在线</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.ah.gov.cn/"  target="_blank">中国安徽</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.jxnews.com.cn/"   target="_blank">中国江西网</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.jiangxi.gov.cn/"   target="_blank">中国江西省人民政府</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.cnhubei.com/"   target="_blank">荆楚网</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.hubei.gov.cn/"  target="_blank">湖北省人民政府</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.voc.com.cn/"    target="_blank">华声在线</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.hunan.gov.cn/"    target="_blank">湖南省人民政府</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.cqnews.net/"  target="_blank">华龙网</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.cq.gov.cn/"   target="_blank">重庆市人民政府</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.newssc.org/"    target="_blank">四川新闻网</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.sc.gov.cn/"    target="_blank">四川省人民政府</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.gzgov.gov.cn/"   target="_blank">中国贵州</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.gzw.net/"  target="_blank">贵州网</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://yn.donews.net.cn/"  target="_blank">云南在线</a></p>
+      </div>
+      <div class="index_con_box_col">
+        <p><a href="http://www.yn.gov.cn/"  target="_blank">云南省人民政府</a></p>
+      </div>
+  </div>
+
+    <style>
+.copyright {text-align:center;line-height:28px; margin:20px auto; width:1000px;}
+.footlj{font-size:12px;}
+.footlj a{font-size:12px;text-decoration:none; margin:0 10px 0 10px;}
+.footlj a:hover{font-size:12px;text-decoration: underline;}
+.clear5{ clear:both; height:5px;}
+</style>
+<div class="clear5"></div>
+<div class="copyright">
+<div class="footlj">
+<p><a href="http://www.chinadevelopment.com.cn/jbxx/310017.shtml" target="_blank">中国经济导报社概况</a>
+ | <a href="http://www.chinadevelopment.com.cn/jbxx/310019.shtml" target="_blank">关于中国发展网</a>
+ | <a href="http://www.chinadevelopment.com.cn/jbxx/310021.shtml" target="_blank">广告服务</a>
+ | <a href="http://www.chinadevelopment.com.cn/jbxx/310023.shtml" target="_blank">联系我们</a>
+ | <a href="http://www.chinadevelopment.com.cn/jbxx/310020.shtml" target="_blank">版权声明</a>
+ | <a href="http://www.chinadevelopment.com.cn/jbxx/314178.shtml" target="_blank">郑重声明</a>
+</p>
+<p>京ICP备09051002-4号
+ | 京公网安备号：110102004372-4
+ | 新闻信息服务许可证编号：1012012001
+ | 新闻监督电话：01063691721
+ </p>
+<p>中 国 发 展 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用
+<br />
+<span>Copyright &copy; 2018 by chinadevelopment.com.cn all rights reserved</span></p>
+</div>
+<div style="display:none;">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F903b0137299475a075386b5d6719d33d' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+<div style="display:none;">
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/15133790.js"></script>
+<noscript><a href="http://www.51.la/?15133790" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/15133790.asp" style="border:none" /></a></noscript></div>
+</div>
+    </center>
+</body>
+<script src="http://img.chinadevelopment.com.cn/templates/chinadevelopment/js/cjjjd/main.js" type="text/javascript"></script>
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</html>
